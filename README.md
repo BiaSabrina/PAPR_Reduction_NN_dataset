@@ -1,1 +1,1 @@
-Dataset for training the supervised neural network, where the first K columns contain the real part and the subsequent K columns store the imaginary part.
+Dataset used for training the supervised neural network, in which the first K columns represent the real part of the symbols, while the subsequent K columns store the imaginary part. Each row corresponds to a symbol adjusted to ensure a Peak to Average Power Ratio (PAPR) value lower than 6 dB.
