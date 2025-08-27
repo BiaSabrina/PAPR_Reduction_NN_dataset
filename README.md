@@ -1,0 +1,2 @@
+Dataset used for training and test the supervised neural network.
+The files consist of 1 million OFDM symbols with 64 subcarriers, including 10 pilots, with QPSK modulation normalized to an energy of 1. The OFDM symbols with zeroed pilot subcarriers to be placed at the neural network input are found in the file "symbol_Ori_.zip". The file "symbol_final_no.zip" has a unique difference in that the pilot subcarriers are filled with values ​​that lead the PAPR to reach a target of 8 dB. Details can be found in DOI: 10.1109/TLA.2025.11045671. 
