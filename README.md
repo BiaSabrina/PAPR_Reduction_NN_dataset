@@ -29,4 +29,4 @@ For full details, see the paper:
 
 ## Code
 The implementation used in the paper is available at:  
-[https://github.com/BiaSabrina/PAPR-Reduction-Code](https://github.com/BiaSabrina/PAPR-Reduction-Code.git)
+[https://github.com/BiaSabrina/PAPR-Reduction-Code](https://github.com/BiaSabrina/PAPR_Reduction_Code)
